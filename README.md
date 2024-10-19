@@ -4,7 +4,8 @@
 
 **Overview**
 
-This project showcases a modern and dynamic website built with HTML, CSS, and JavaScript. Leveraging powerful libraries such as Swiper.js for seamless slideshows, and Locomotive Scroll for smooth scrolling effects, this website provides an engaging and interactive user experience.
+This project showcases a modern and dynamic website built with HTML, CSS, and JavaScript. 
+Leveraging powerful libraries such as Swiper.js for seamless slideshows, and Locomotive Scroll for smooth scrolling effects, this website provides an engaging and interactive user experience.
 
 **Features**
 
