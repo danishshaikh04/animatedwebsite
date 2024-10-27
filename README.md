@@ -21,13 +21,9 @@ Responsive Design: The website is designed to be fully responsive, ensuring a se
 
 
 HTML5
-
 CSS3
-
 JavaScript
-
 Swiper.js
-
 Locomotive Scroll
 
 **Demo**
