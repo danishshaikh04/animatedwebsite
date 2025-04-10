@@ -31,6 +31,3 @@ Locomotive Scroll
 For a live demo, check out the hosted version here.
 https://sundownstudios.netlify.app/
 
-**Contribution**
-
-Contributions are welcome! Feel free to fork the repository and submit pull requests for any enhancements, bug fixes, or new features.
